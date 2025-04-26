@@ -1,9 +1,9 @@
 <?php 
 $lang['Footer'] = array(
-    'Homepage' => 'Homepage',
+    'Homepage' => 'Ana Sayfa',
     'Forum' => 'Forum',
-    'Links' => 'Links',
-    'FAQ' => 'FAQ - Answers',
-    'Terms' => 'Terms',
-    'Imprint' => 'Imprint',
+    'Links' => 'Bağlantılar',
+    'FAQ' => 'SSS - Cevaplar',
+    'Terms' => 'Kullanım Şartları',
+    'Imprint' => 'İletişim ve Yasal Bilgiler',
 );
