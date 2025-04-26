@@ -1,13 +1,14 @@
 <?php 
 $lang['Support'] = array(
-    '01' => 'Support',
-    '02' => 'You can use the following form to submit your request to the Support. Please take a bit of time to answer the form questions in as much detail as possible, so that we can answer your request quickly and in length. Please note that without a valid email address, your request will not get processed',
-    '03' => 'Game errors, login errors and game rules related questions',
-    '04' => 'Game world',
-    '05' => 'Username',
-    '06' => 'Email',
-    '07' => 'Category',
-    '08' => 'Message',
-    '09' => 'Captcha',
-    '10' => 'send request',
+    '01' => 'Destek',
+    '02' => 'Aşağıdaki formu kullanarak Destek Ekibine talebinizi iletebilirsiniz. Lütfen formdaki soruları mümkün olduğunca ayrıntılı cevaplayın, böylece size daha hızlı ve kapsamlı yardımcı olabiliriz. Lütfen geçerli bir e-posta adresi olmadan talebinizin işleme alınamayacağını unutmayın.',
+    '03' => 'Oyun hataları, giriş hataları ve oyun kurallarıyla ilgili sorular',
+    '04' => 'Oyun dünyası',
+    '05' => 'Kullanıcı Adı',
+    '06' => 'E-posta',
+    '07' => 'Kategori',
+    '08' => 'Mesaj',
+    '09' => 'Doğrulama Kodu (Captcha)',
+    '10' => 'Talebi Gönder',
 );
+?>
