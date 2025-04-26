@@ -1,8 +1,9 @@
 <?php 
 $lang['Toolbar'] = array(
-    '01' => 'Profile||Edit profile description.',
-    '02' => 'Options||Edit account settings.',
-    '03' => 'Forum||Meet other players on our external forum.',
-    '04' => 'Help||Manuals, Answers and Support',
-    '05' => 'Logout||Log out from the game.',
+    '01' => 'Profil||Profil açıklamasını düzenle.',
+    '02' => 'Ayarlar||Hesap ayarlarını düzenle.',
+    '03' => 'Forum||Diğer oyuncularla dış forumda tanış.',
+    '04' => 'Yardım||Kılavuzlar, Cevaplar ve Destek.',
+    '05' => 'Çıkış||Oyundan çıkış yap.',
 );
+?>
