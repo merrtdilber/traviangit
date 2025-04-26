@@ -1,4 +1,5 @@
 <?php 
 $lang['Nachrichten'] = array(
-    'InboxB' => 'العودة إلي صندوق الوارد:',
+    'InboxB' => 'Gelen Kutusuna Geri Dön:',
 );
+?>
