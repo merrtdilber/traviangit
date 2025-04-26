@@ -1,24 +1,25 @@
 <?php
 $lang['News'] = array(
-    '1' => 'Plus account will be finished in',
-    '2' => 'Wood production boost will be finished in',
-    '3' => 'Clay production boost will be finished in',
-    '4' => 'Iron production boost will be finished in',
-    '5' => 'Crop production boost will be finished in',
+    '1' => 'Plus hesabınızın süresi dolacak:',
+    '2' => 'Odun üretimi artırımı bitecek:',
+    '3' => 'Tuğla üretimi artırımı bitecek:',
+    '4' => 'Demir üretimi artırımı bitecek:',
+    '5' => 'Tahıl üretimi artırımı bitecek:',
 
-    '1F' => 'Your plus account is Expired.',
-    '2F' => 'Wood production boot is Expired.',
-    '3F' => 'Clay production boot is Expired.',
-    '4F' => 'Iron production boot is Expired.',
-    '5F' => 'Crop production boot is Expired.',
+    '1F' => 'Plus hesabınızın süresi doldu.',
+    '2F' => 'Odun üretimi artırımı sona erdi.',
+    '3F' => 'Tuğla üretimi artırımı sona erdi.',
+    '4F' => 'Demir üretimi artırımı sona erdi.',
+    '5F' => 'Tahıl üretimi artırımı sona erdi.',
 
-    'Button01' => 'Extend Now',
-    'Button02' => 'Bonus duration in hours',
-    'Button03' => 'hour',
-    'Button04' => 'Extend',
+    'Button01' => 'Şimdi Uzat',
+    'Button02' => 'Bonus süresi (saat)',
+    'Button03' => 'saat',
+    'Button04' => 'Uzat',
 
-    'Hour' => 'hours',
+    'Hour' => 'saat',
 
-    'Arts' => 'Artifacts will be released in %s hours',
-    'WWPlans' => 'Construction plans will appear in %s hours',
+    'Arts' => 'Eserler %s saat içinde serbest bırakılacak',
+    'WWPlans' => 'Dünya Harikası planları %s saat içinde görünecek',
 );
+?>
