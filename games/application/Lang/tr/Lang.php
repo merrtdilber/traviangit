@@ -15,7 +15,7 @@
 	define("BUILDING_BUILDING","Buildings:");
 	define("BUILDING_COMPLETE","complete construction immediately");
 	define("BUILDING_LEVEL","level");
-	define("BUILDING_QUEUE","queue");
+	define("BUILDING_QUEUE","sıra");
 	define("BUILDING_TIMER","hr. Finish in ");
 	define("BUILDING_ARCHITECT","Building");
 	define("SIDEINFO_HERO1","Your hero is dead");
