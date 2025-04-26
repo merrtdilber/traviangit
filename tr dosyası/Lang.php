@@ -32,10 +32,10 @@
 	define("SIDEINFO_HERO11","Heal");
 	define("SIDEINFO_HERO12","Experience");
 
-	define("LANG_UR","en");
+	define("LANG_UR","tr");
 	define("DIRECTION","ltr");
 	define("DIRECTION_2","left");
-	define("LOCATION_NAME","Global - EN");
+	define("LOCATION_NAME","Global - TR");
 
 	define("INCLUDED","");
 	define("INS0","Changes rights on folders (CHMOD)");
@@ -4344,6 +4344,7 @@ $lang['main']['options'] = array(
 	'2' => 'language settings',
 	'3' => 'Language',
 	'4' => 'English',
+	'tr4' => 'Turkish',
 	'5' => 'Arabic',
 	'6' => 'save',
 );

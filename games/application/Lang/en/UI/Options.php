@@ -5,3 +5,4 @@ $lang['Options'] = array(
     'TZ03' => 'Time zone',
     'TZ04' => 'Date format',
 );
+

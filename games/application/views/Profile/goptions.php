@@ -91,7 +91,6 @@ div.options table.set input.radio {
 				<select name="languageNew">
 					<option value="en" <?php if($session->lang == 'en'){ echo 'selected="selected"'; } ?>><?php echo $lang['main']['options'][4]; ?></option>
                     <option value="ar" <?php if($session->lang == 'ar'){ echo 'selected="selected"'; } ?>><?php echo $lang['main']['options'][5]; ?></option>
-					<option value="tr" <?php if($session->lang == 'tr'){ echo 'selected="selected"'; } ?>><?php echo $lang['main']['options'][7]; ?></option>
                 </select>
 			</td>
 		</tr>
