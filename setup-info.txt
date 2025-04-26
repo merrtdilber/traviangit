@@ -1,0 +1,5 @@
+edit 
+serverlist.php  msql info
+
+edit 
+games\application/config.php  msql info
