@@ -1,8 +1,7 @@
 <?php 
 $lang['Options'] = array(
-    'TZ01' => 'Saat dilimi tercihleri',
-    'TZ02' => 'Saat diliminizi burada değiştirebilirsiniz.',
-    'TZ03' => 'Saat dilimi',
-    'TZ04' => 'Tarih formatı',
+    'TZ01' => 'Time zone preferences',
+    'TZ02' => 'You can change your time zone here.',
+    'TZ03' => 'Time zone',
+    'TZ04' => 'Date format',
 );
-?>
