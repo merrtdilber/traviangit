@@ -71,10 +71,10 @@ $lang['Plus'] = array(
 
     'popupProd01' => 'Üretim Bonusları',
     'popupProd02' => 'Kaynak üretimini artıran özellik',
-    'popupProd03' => '+%25 Daha fazla odun üretimi',
-    'popupProd04' => '+%25 Daha fazla tuğla üretimi',
-    'popupProd05' => '+%25 Daha fazla demir üretimi',
-    'popupProd06' => '+%25 Daha fazla tahıl üretimi',
+    'popupProd03' => '‎‭+‭25‬%‬‎ Daha fazla odun üretimi',
+    'popupProd04' => '‎‭+‭25‬%‬‎ Daha fazla tuğla üretimi',
+    'popupProd05' => '‎‭+‭25‬%‬‎ Daha fazla demir üretimi',
+    'popupProd06' => '‎‭+‭25‬%‬‎ Daha fazla tahıl üretimi',
     'popupProd07' => 'Üretim bonusu, seçilen kaynak(lar)ın tüm köylerinizde üretimini %25 artırır. Otomatik uzatma seçilirse, bonus süresi bitince otomatik olarak yeniden aktif olur.',
 
     'popupPlus01' => 'Travian PLUS',
