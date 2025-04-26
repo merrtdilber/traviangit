@@ -1,7 +1,7 @@
 <?php
 
 $lang['Errors'] = array(
-    'Error01' => 'You can\'t access here since you\'re account is in deletion process.',
-    'Error02' => 'Finish 10 adventures to unlock the auctions.',
-    'Error03' => 'Finish adventures',
+    'Error01' => 'Hesabınız silinme sürecinde olduğu için buraya erişemezsiniz.',
+    'Error02' => 'Açık artırmaları açmak için 10 macerayı tamamlayın.',
+    'Error03' => 'Maceraları tamamla',
 );
