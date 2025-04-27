@@ -1,0 +1,43 @@
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.world.default {
+    animation: fadeInUp 0.6s ease forwards;
+}
+.world.default:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.5);
+}
+.world.default::after {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0);
+    border-radius: 12px;
+    z-index: 1;
+    transition: background 0.3s;
+}
+.world.default:hover::after {
+    background: rgba(0,0,0,0.3);
+}
+.world.default > * {
+    position: relative;
+    z-index: 2;
+}
+.progressBar div {
+    transition: width 1.5s ease-in-out;
+}
+button:hover {
+    background: #218838;
+}
+@media (max-width: 768px) {
+    .worldGroup {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .world.default {
+        width: 90%;
+    }
+}
